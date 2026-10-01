@@ -388,7 +388,7 @@ py --version
 No terminal:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git https://github.com/lcsmaster13/pandex-controle-producao
 ```
 
 Depois, acesse a pasta:
@@ -786,8 +786,7 @@ Dessa forma, o projeto demonstra a importância da programação como ferramenta
 
 O código-fonte completo do projeto está disponível no GitHub:
 
-🔗 **Repositório:** `COLOCAR_LINK_DO_GITHUB_AQUI`
-
+🔗 **Repositório:** https://github.com/lcsmaster13/pandex-controle-producao
 ---
 
 ## 👨‍💻 Autor
@@ -796,7 +795,7 @@ O código-fonte completo do projeto está disponível no GitHub:
 
 Projeto acadêmico desenvolvido para a disciplina de **Algoritmos e Lógica da Programação**.
 
-**Professor:** Grilho
+**Professor:** Grillo
 
 ---
 
