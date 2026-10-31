@@ -3,7 +3,7 @@
 **Aluno:** Lucas Eduardo Cunha de Oliveira  
 **Disciplina:** Metodologias Ágeis e Validação de Produtos  
 **Professora:** Nataly Paes  
-**Entregável:** Trabalho Acadêmico — Partes Teórica e Prática
+
 
 --- 
 
